@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "LEXSCAN",
+    "slug": "lexscan-legal-risk-analyzer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"]
+  }
+}

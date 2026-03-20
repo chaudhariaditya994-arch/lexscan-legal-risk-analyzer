@@ -1,0 +1,15 @@
+fastapi>=0.135.0
+uvicorn[standard]>=0.34.0
+anthropic>=0.49.0
+motor>=3.7.0
+redis>=5.2.1
+reportlab>=4.2.5
+PyJWT>=2.10.1
+google-auth>=2.38.0
+python-multipart>=0.0.20
+pydantic>=2.12.0
+pydantic-settings>=2.13.0
+python-dotenv>=1.0.1
+slowapi>=0.1.9
+httpx>=0.28.1
+pytest>=8.3.4
