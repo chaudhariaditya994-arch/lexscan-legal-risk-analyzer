@@ -1,3 +1,5 @@
+[![CI](https://github.com/chaudhariaditya994-arch/lexscan-legal-risk-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/chaudhariaditya994-arch/lexscan-legal-risk-analyzer/actions/workflows/ci.yml)
+
 # ⚖ LEXSCAN — AI Legal Risk Analyzer
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/)

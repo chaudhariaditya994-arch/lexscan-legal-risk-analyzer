@@ -26,3 +26,8 @@ yarn-debug.log*
 yarn-error.log*
 .DS_Store
 Thumbs.db
+.expo
+venv/
+.venv/
+*.pdf
+!sample*.pdf
