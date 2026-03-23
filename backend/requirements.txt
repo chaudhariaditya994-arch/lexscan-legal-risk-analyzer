@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+anthropic
+motor
+redis
+reportlab
+slowapi
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
